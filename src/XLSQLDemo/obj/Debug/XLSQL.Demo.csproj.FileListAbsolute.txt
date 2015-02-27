@@ -1,0 +1,2 @@
+c:\Users\felipe.marques\documents\visual studio 2012\Projects\ConsoleApplication4\XLSQL.Demo\bin\Debug\XLSQL.Demo.exe.config
+C:\Users\felipe.marques\Documents\visual studio 2012\Projects\XLSQL\XLSQL.Demo\bin\Debug\XLSQL.Demo.exe.config
