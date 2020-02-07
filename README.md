@@ -1,5 +1,5 @@
 # xlsql [![Build status](https://ci.appveyor.com/api/projects/status/9hgk0u4pskjwjlii?svg=true)](https://ci.appveyor.com/project/fmmsilva/xlsql)
-Use SQL to query Excel tables
+Query Excel sheets data using SQL
 
 ```c#
 FileInfo source = new FileInfo(@"c:\temp\source.xlsx");
